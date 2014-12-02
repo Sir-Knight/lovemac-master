@@ -1,3 +1,3 @@
 Lovemac
 ============
-[ ![Codeship Status for gain9999/lovemac](https://codeship.com/projects/972635d0-5c1b-0132-c2ee-0e90e8baf01d/status)](https://codeship.com/projects/50683)
+[ ![Codeship Status for Sir-Knight/lovemac-master](https://codeship.com/projects/333d99d0-5c2b-0132-b43b-0e90e8baf01d/status)](https://codeship.com/projects/50722)
